@@ -1,2 +1,1 @@
 const names = [];
-const jobs = [];

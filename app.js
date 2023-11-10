@@ -1,2 +1,2 @@
 const names = [];
-const jobs = [];
+const jobs = ['bana', 'sdsd'];

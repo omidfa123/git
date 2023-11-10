@@ -1,1 +1,1 @@
-const names = ['omidfa', 'mamad'];
+const names = [];
